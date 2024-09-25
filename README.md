@@ -3,6 +3,7 @@
 **Innovative tech enthusiast with a passion for ethical hacking, programming, and data analysis.** I love creating impactful open-source tools, automating tasks, and exploring new ways to leverage technology for creative solutions.
 
 ## 🌟 About Me
+My full name is A N M Mashud. Here is more about me.
 - 🔐 **Ethical Hacker & Programmer** with a focus on security and automation.
 - 📊 Passionate about **data analysis** and **statistical modeling**, constantly expanding my skills in LibreOffice Calc, Python, SQL and other tools.
 - 💻 Currently working on my **LMI-Tool** project for automating mobile flashing and system maintenance.
