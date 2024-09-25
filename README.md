@@ -3,7 +3,6 @@
 **Innovative tech enthusiast with a passion for ethical hacking, programming, and data analysis.** I love creating impactful open-source tools, automating tasks, and exploring new ways to leverage technology for creative solutions.
 
 ## 🌟 About Me
-My full name is A N M Mashud. Here is more about me.
 - 🔐 **Ethical Hacker & Programmer** with a focus on security and automation.
 - 📊 Passionate about **data analysis** and **statistical modeling**, constantly expanding my skills in LibreOffice Calc, Python, SQL and other tools.
 - 💻 Currently working on my **LMI-Tool** project for automating mobile flashing and system maintenance.
@@ -33,13 +32,15 @@ A project to analyze and visualize student performance data, using LibreOffice C
 - Improving my **open-source contributions** and building tools that solve real-world problems.
 
 ## 📫 How to Reach Me (A N M Mashud)
-- **Email**: [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com)
-- **GitHub**: [Mashud's GitHub](https://github.com/anmmashud)
-- **LinkedIn**: [Mashud's LinkedIn Profile](https://www.linkedin.com/in/anmmashud)
-- **Telegram**:[Mashud's Telegram Profile](https://t.me/anmmashud)
-- **Facebook** :[Mashud's Facebook Profile](https://facebook.com/anm.mashud.9)
-- **Instagram**:[Mashud's Instagram Profile](https://instagram.com/anmmashud)
-- **Twitter/X**:[Mashud's Twitter Profile](https://x.com/anm_mashud)
+- **Email**: anmmashud123@gmail.com
+- **GitHub**: https://github.com/anmmashud
+- **LinkedIn**: https://www.linkedin.com/in/anmmashud
+- **Telegram**: https://t.me/anmmashud
+- **Facebook** : https://facebook.com/anm.mashud.9
+- **Instagram**: https://instagram.com/anmmashud
+- **Twitter/X**: https://x.com/anm_mashud
+- **Websites-1**: https://spyroox.rf.gd
+- **Websites-2**: https://anmmashud02@blogspot.com
 
 ## 💡 Let's Collaborate!
 I’m open to collaborating on projects related to:
@@ -49,11 +50,8 @@ I’m open to collaborating on projects related to:
 
 Feel free to reach out if you have a cool project or just want to connect!
 
-## 📈 GitHub Stats
-
-![MY GitHub Stats](https://github-readme-stats.vercel.app/api?anmmashud=anmmashud&show_icons=true&theme=radical)
-https://spyroox.rf.gd
 ---
 
 **"Curiosity drives me forward. Let’s build something impactful together!"**
 
+# SPYRooX || anmmmashud
