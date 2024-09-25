@@ -34,7 +34,11 @@ A project to analyze and visualize student performance data, using LibreOffice C
 ## 📫 How to Reach Me
 - **Email**: [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com)
 - **GitHub**: [Mashud's GitHub](https://github.com/anmmashud)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anmmashud)
+- **LinkedIn**: [Mashud's LinkedIn Profile](https://www.linkedin.com/in/anmmashud)
+- **Telegram**:[Mashud's Telegram Profile](https://t.me/anmmashud)
+- **Facebook** :[Mashud's Facebook Profile](https://facebook.com/anm.mashud.9)
+- **Instagram**:[Mashud's Instagram Profile](https://instagram.com/anmmashud)
+- **Twitter/X**:[Mashud's Twitter Profile](https://x.com/anm_mashud)
 
 ## 💡 Let's Collaborate!
 I’m open to collaborating on projects related to:
@@ -46,7 +50,7 @@ Feel free to reach out if you have a cool project or just want to connect!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?anmmashud=anmmashud&show_icons=true&theme=radical)
+![MY GitHub Stats](https://github-readme-stats.vercel.app/api?anmmashud=anmmashud&show_icons=true&theme=radical)
 
 ---
 
