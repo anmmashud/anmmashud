@@ -31,7 +31,7 @@ A project to analyze and visualize student performance data, using LibreOffice C
 - Learning **machine learning** and **AI** for future projects in automation and data science.
 - Improving my **open-source contributions** and building tools that solve real-world problems.
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me (A N M Mashud)
 - **Email**: [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com)
 - **GitHub**: [Mashud's GitHub](https://github.com/anmmashud)
 - **LinkedIn**: [Mashud's LinkedIn Profile](https://www.linkedin.com/in/anmmashud)
