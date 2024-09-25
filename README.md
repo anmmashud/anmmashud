@@ -32,15 +32,15 @@ A project to analyze and visualize student performance data, using LibreOffice C
 - Improving my **open-source contributions** and building tools that solve real-world problems.
 
 ## 📫 How to Reach Me (A N M Mashud)
-- **Email**: anmmashud123@gmail.com
-- **GitHub**: https://github.com/anmmashud
-- **LinkedIn**: https://www.linkedin.com/in/anmmashud
-- **Telegram**: https://t.me/anmmashud
-- **Facebook** : https://facebook.com/anm.mashud.9
-- **Instagram**: https://instagram.com/anmmashud
-- **Twitter/X**: https://x.com/anm_mashud
-- **Websites-1**: https://spyroox.rf.gd
-- **Websites-2**: https://anmmashud02@blogspot.com
+- **Email**: [anmmashud](anmmashud123@gmail.com)
+- **GitHub**: [anmmashud](https://github.com/anmmashud)
+- **LinkedIn**: [anmmashud](https://www.linkedin.com/in/anmmashud)
+- **Telegram**: [anmmashud](https://t.me/anmmashud)
+- **Facebook** : [anm.mashud.9](https://facebook.com/anm.mashud.9)
+- **Instagram**: [anmmashud](https://instagram.com/anmmashud)
+- **Twitter/X**: [anm_mashud](https://x.com/anm_mashud)
+- **Websites-1**: [SPYRooX](https://spyroox.rf.gd)
+- **Websites-2**: [Blog](https://anmmashud02@blogspot.com)
 
 ## 💡 Let's Collaborate!
 I’m open to collaborating on projects related to:
@@ -54,4 +54,4 @@ Feel free to reach out if you have a cool project or just want to connect!
 
 **"Curiosity drives me forward. Let’s build something impactful together!"**
 
-# SPYRooX || anmmmashud
+**SPYRooX || anmmmashud**
