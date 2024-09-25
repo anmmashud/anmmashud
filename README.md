@@ -1,13 +1,10 @@
-# A N M Mashud
-Innovative tech enthusiast with a passion for ethical hacking, programming, and data analysis. Dedicated to building impactful open-source tools and mastering automation. Currently exploring statistical modeling and creative tech solutions.
-
 # Hi there, I'm Mashud! 👋
 
 **Innovative tech enthusiast with a passion for ethical hacking, programming, and data analysis.** I love creating impactful open-source tools, automating tasks, and exploring new ways to leverage technology for creative solutions.
 
 ## 🌟 About Me
 - 🔐 **Ethical Hacker & Programmer** with a focus on security and automation.
-- 📊 Passionate about **data analysis** and **statistical modeling**, constantly expanding my skills in LibreOffice Calc, Python, and other tools.
+- 📊 Passionate about **data analysis** and **statistical modeling**, constantly expanding my skills in LibreOffice Calc, Python, SQL and other tools.
 - 💻 Currently working on my **LMI-Tool** project for automating mobile flashing and system maintenance.
 - 🌱 Always learning something new, with a strong interest in **AI**, **machine learning**, and **open-source contributions**.
 
@@ -15,18 +12,18 @@ Innovative tech enthusiast with a passion for ethical hacking, programming, and 
 - **Languages**: Python, Bash, HTML, CSS, JavaScript
 - **Technologies**: ADB, Fastboot, Git, Linux, LibreOffice Calc, Excel
 - **Interests**: Ethical Hacking, Automation, Data Analysis, Statistical Modeling, Cybersecurity
-- **Tools**: GitHub, Git, Visual Studio Code, Terminal, Figma (for design)
+- **Tools**: GitHub, Git, Visual Studio Code, Terminal, ChatGPT
 
 ## 🔥 Projects
 Here are some of the key projects I’ve worked on:
 
-### [LMI-Tool](https://github.com/username/LMI-Tool)
+### [LMI-Tool](https://github.com/anmmashud/LMI-Tool)
 A powerful automation tool for flashing Xiaomi devices, designed to streamline common system maintenance tasks like flashing stock ROMs, custom recoveries, and more.  
 **Technologies used**: ADB, Fastboot, Python
 
-### [Student Grades Data Analysis](https://github.com/username/Student-Grades-Analysis)
+### [Student-Data](https://github.com/anmmashud/Student-Data)
 A project to analyze and visualize student performance data, using LibreOffice Calc. The spreadsheet includes detailed grade analysis and ranking.  
-**Technologies used**: LibreOffice Calc, Excel
+**Technologies used**: LibreOffice Calc
 
 ---
 
@@ -35,9 +32,9 @@ A project to analyze and visualize student performance data, using LibreOffice C
 - Improving my **open-source contributions** and building tools that solve real-world problems.
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Mashud's GitHub](https://github.com/username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com)
+- **GitHub**: [Mashud's GitHub](https://github.com/anmmashud)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anmmashud)
 
 ## 💡 Let's Collaborate!
 I’m open to collaborating on projects related to:
@@ -49,7 +46,7 @@ Feel free to reach out if you have a cool project or just want to connect!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?anmmashud=anmmashud&show_icons=true&theme=radical)
 
 ---
 
