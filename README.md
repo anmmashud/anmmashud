@@ -54,4 +54,4 @@ Feel free to reach out if you have a cool project or just want to connect!
 
 **"Curiosity drives me forward. Let’s build something impactful together!"**
 
-**SPYRooX || anmmmashud**
+**Mashud || SPYRooX || anmmmashud**
