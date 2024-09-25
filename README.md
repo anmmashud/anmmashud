@@ -40,7 +40,7 @@ A project to analyze and visualize student performance data, using LibreOffice C
 - **Instagram**: [anmmashud](https://instagram.com/anmmashud)
 - **Twitter/X**: [anm_mashud](https://x.com/anm_mashud)
 - **Websites-1**: [SPYRooX](https://spyroox.rf.gd)
-- **Websites-2**: [Blog](https://anmmashud02@blogspot.com)
+- **Websites-2**: [Blog](https://anmmashud02.blogspot.com)
 
 ## 💡 Let's Collaborate!
 I’m open to collaborating on projects related to:
