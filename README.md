@@ -9,9 +9,9 @@
 - 🌱 Always learning something new, with a strong interest in **AI**, **machine learning**, and **open-source contributions**.
 
 ## 🚀 Skills & Expertise
-- **Languages**: Python, Bash, HTML, CSS, JavaScript
+- **Languages**: Python, R, Bash, HTML, CSS, JavaScript, SQL
 - **Technologies**: ADB, Fastboot, Git, Linux, LibreOffice Calc, Excel
-- **Interests**: Ethical Hacking, Automation, Data Analysis, Statistical Modeling, Cybersecurity
+- **Interests**: Ethical Hacking, Machine Learning, Data Analysis, Statistical Modeling, Cybersecurity
 - **Tools**: GitHub, Git, Visual Studio Code, Terminal, ChatGPT
 
 ## 🔥 Projects
