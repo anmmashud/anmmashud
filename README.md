@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Mashud!</h1>
-<h3 align="center">Let's talk about Data Science & Analytics 🚀</h3>
+<h3 align="center">Let's talk about Data Science & Analytics</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anmmashud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -61,7 +61,7 @@ I’m open to collaborating on:
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://anmmashud.github.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="Website" height="40" width="40" style="margin-right: 20px;" /></a>
 <a href="https://linkedin.com/in/anmmashud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" /></a>
@@ -73,7 +73,7 @@ I’m open to collaborating on:
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmmashud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -82,12 +82,6 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
-
-
-
-
-
 
 ---
 
