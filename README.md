@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=anmmashud&label=Profile%20views&color=0e75b6&style=flat" alt="anmmashud" />
 </p>
 
----
+
 
 <h2 align="center">🌟 About Me</h2>
 <p align="center">
@@ -17,17 +17,6 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 - 💡 Always learning new tools and technologies to enhance my analytical skills  
 - 📈 **Goal**: Apply data science concepts to tackle real-world problems  
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmmashud&show_icons=true&locale=en&layout=compact" alt="anmmashud languages" />
-</p>
-
----
 
 <h2 align="center">🚀 Skills & Expertise</h2>
 
@@ -54,7 +43,7 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 </tr>
 </table>
 
----
+
 
 <h2 align="center">💡 Let's Collaborate!</h2>
 <p align="center">
@@ -65,7 +54,7 @@ I'm open to collaborating on:
 - Creating Dashboards & Reports  
 - Statistical Modeling & Insights Generation  
 
----
+
 
 <h2 align="center">📞 Connect with Me</h2>
 <p align="center">
@@ -76,6 +65,17 @@ I'm open to collaborating on:
 <a href="https://www.youtube.com/c/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmmashud" height="40" width="40" style="margin-right: 15px;" /></a>
 </p>
 
----
+--
+
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmmashud&show_icons=true&locale=en&layout=compact" alt="anmmashud languages" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud stats" />
+
+--
 
 <h3 align="center">"Every dataset has a story; I’m here to tell it with data." 📈</h3>
