@@ -22,11 +22,11 @@ Passionate about uncovering insights from data, building dashboards, and creatin
 
 <a href="https://linkedin.com/in/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmmashud" height="30" width="40" /></a>
 <a href="https://kaggle.com/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anmmashud" height="30" width="40" /></a>
-<a href="https://fb.com/anmmashud01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmmashud" height="30" width="40" /></a>
+<a href="https://facebook.com/anmmashud01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmmashud" height="30" width="40" /></a>
 <a href="https://instagram.com/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmmashud" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmmashud" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmmashud&show_icons=true&locale=en&layout=compact" alt="anmmashud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud" /></p>
