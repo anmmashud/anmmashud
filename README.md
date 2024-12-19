@@ -73,7 +73,6 @@ I’m open to collaborating on:
 
 ---
 
-<h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://anmmashud.github.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="Website" height="40" width="40" style="margin-right: 20px;" /></a>
 <a href="https://linkedin.com/in/anmmashud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" /></a>
