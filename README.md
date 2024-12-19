@@ -6,7 +6,7 @@
 </p>
 
 
-
+--
 <h2 align="left">🌟 About Me</h2>
 <p align="center">
 Aspiring Data Analyst with a passion for uncovering insights, creating dashboards, and solving data-driven challenges.
@@ -17,7 +17,7 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 - 💡 Always learning new tools and technologies to enhance my analytical skills  
 - 📈 **Goal**: Apply data science concepts to tackle real-world problems  
 
-
+--
 <h2 align="left">🚀 Skills & Expertise</h2>
 
 <table align="center">
@@ -52,7 +52,7 @@ I'm open to collaborating on:
 - Creating Dashboards & Reports  
 - Statistical Modeling & Insights Generation  
 
-
+--
 <h2 align="center">📊 GitHub Stats</h2>
 </p>
 <p align="center">
