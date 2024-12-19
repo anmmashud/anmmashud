@@ -70,12 +70,14 @@ I'm open to collaborating on:
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-<a href="https://anmmashud.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="anmmashud.github.io" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://linkedin.com/in/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://kaggle.com/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://facebook.com/anmmashud01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://instagram.com/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://www.youtube.com/c/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
+<a href="https://anmmashud.github.io" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="anmmashud.github.io" height="30" width="40" style="margin-right: 15px;" />
+</a>
+<a href="https://linkedin.com/in/anmmashud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
+<a href="https://kaggle.com/anmmashud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
+<a href="https://facebook.com/anmmashud01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
+<a href="https://instagram.com/anmmashud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
+<a href="https://www.youtube.com/c/anmmashud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmmashud" height="30" width="40" style="margin-right: 15px;" /></a>
 </p>
 
 ---
