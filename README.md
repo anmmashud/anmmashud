@@ -70,7 +70,9 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
 ---
+
 <p align="center">
   <a href="https://anmmashud.github.io" target="blank">
     <img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="Website" height="40" width="40" />
