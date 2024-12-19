@@ -1,57 +1,32 @@
-# Hi there, I'm Mashud! 👋
+<h5 align="center"> Let's talk about Data Science </h5>
 
-**Innovative tech enthusiast with a passion for ethical hacking, programming, and data analysis.** I love creating impactful open-source tools, automating tasks, and exploring new ways to leverage technology for creative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="anmmashud" /> </p>
 
-## 🌟 About Me
-- 🔐 **Ethical Hacker & Programmer** with a focus on security and automation.
-- 📊 Passionate about **data analysis** and **statistical modeling**, constantly expanding my skills in LibreOffice Calc, Python, SQL and other tools.
-- 💻 Currently working on my **LMI-Tool** project for automating mobile flashing and system maintenance.
-- 🌱 Always learning something new, with a strong interest in **AI**, **machine learning**, and **open-source contributions**.
+<h3 align="left"> Hi there, I'm Mashud! 👋 </h3>
 
-## 🚀 Skills & Expertise
-- **Languages**: Python, R, Bash, HTML, CSS, JavaScript, SQL
-- **Technologies**: ADB, Fastboot, Git, Linux, LibreOffice Calc, Excel
-- **Interests**: Ethical Hacking, Machine Learning, Data Analysis, Statistical Modeling, Cybersecurity
-- **Tools**: GitHub, Git, Visual Studio Code, Terminal, ChatGPT
+**Exploring the World of Data Science & Analytics**  
+Passionate about uncovering insights from data, building dashboards, and creating impactful data-driven solutions
 
-## 🔥 Projects
-Here are some of the key projects I’ve worked on:
+--
 
-### [LMI-Tool](https://github.com/anmmashud/LMI-Tool)
-A powerful automation tool for flashing Xiaomi devices, designed to streamline common system maintenance tasks like flashing stock ROMs, custom recoveries, and more.  
-**Technologies used**: ADB, Fastboot, Python
+## 🌟 About Me  
+- 🌱 **Aspiring Data Analyst** specializing in data analysis, visualization, and dashboard creation.  
+- 📊 Experienced in **Excel**, **SQL**, **Python**, and **LibreOffice Calc**, with a strong focus on data storytelling.  
+- 💡 Constantly learning new tools and technologies to improve my analytical and problem-solving skills.  
+- 📈 Interested in applying **data science** concepts to real-world challenges. 
 
-### [Student-Data](https://github.com/anmmashud/Student-Data)
-A project to analyze and visualize student performance data, using LibreOffice Calc. The spreadsheet includes detailed grade analysis and ranking.  
-**Technologies used**: LibreOffice Calc
 
----
+<h3 align="left">Connect with me:</h3>
 
-## 🛠️ What I’m Working On
-- Learning **machine learning** and **AI** for future projects in automation and data science.
-- Improving my **open-source contributions** and building tools that solve real-world problems.
+<p align="left">
 
-## 📫 How to Reach Me (A N M Mashud)
-- **Email**: [anmmashud](anmmashud123@gmail.com)
-- **GitHub**: [anmmashud](https://github.com/anmmashud)
-- **LinkedIn**: [anmmashud](https://www.linkedin.com/in/anmmashud)
-- **Telegram**: [anmmashud](https://t.me/anmmashud)
-- **Facebook** : [anm.mashud.9](https://facebook.com/anm.mashud.9)
-- **Instagram**: [anmmashud](https://instagram.com/anmmashud)
-- **Twitter/X**: [anm_mashud](https://x.com/anm_mashud)
-- **Websites-1**: [SPYRooX](https://spyroox.rf.gd)
-- **Websites-2**: [Blog](https://anmmashud02.blogspot.com)
+<a href="https://linkedin.com/in/kmrashedulalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmmashud" height="30" width="40" /></a>
+<a href="https://kaggle.com/studymart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="studymart" height="30" width="40" /></a>
+<a href="https://fb.com/mrargon28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrargon28" height="30" width="40" /></a>
+<a href="https://instagram.com/ra_shakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra_shakil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/studymart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="studymart" height="30" width="40" /></a>
+</p>
 
-## 💡 Let's Collaborate!
-I’m open to collaborating on projects related to:
-- Ethical hacking and cybersecurity
-- Automation tools and open-source contributions
-- Data analysis and statistical modeling
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashakil-ds&show_icons=true&locale=en&layout=compact" alt="rashakil-ds" /></p>
 
-Feel free to reach out if you have a cool project or just want to connect!
-
----
-
-**"Curiosity drives me forward. Let’s build something impactful together!"**
-
-**Mashud || SPYRooX || anmmmashud**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashakil-ds&show_icons=true&locale=en" alt="rashakil-ds" /></p>
