@@ -27,7 +27,7 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 </tr>
 <tr>
   <td><b>Data Tools</b></td>
-  <td>Excel, LibreOffice Calc, Power BI (beginner)</td>
+  <td>Excel, LibreOffice Calc, Tableau </td>
 </tr>
 <tr>
   <td><b>Visualization</b></td>
@@ -65,17 +65,16 @@ I'm open to collaborating on:
 <a href="https://www.youtube.com/c/anmmashud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmmashud" height="40" width="40" style="margin-right: 15px;" /></a>
 </p>
 
---
 
+<h2 align="center">📊 GitHub Stats</h2>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmmashud&show_icons=true&locale=en&layout=compact" alt="anmmashud languages" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud stats" />
 
---
+---
 
-<h3 align="center">"Every dataset has a story; I’m here to tell it with data." 📈</h3>
+<h3 align="center">"Every dataset has a story; I’m here to tell it with data."</h3>
