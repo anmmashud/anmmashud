@@ -29,4 +29,4 @@ Passionate about uncovering insights from data, building dashboards, and creatin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmmashud&show_icons=true&locale=en&layout=compact" alt="anmmashud" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anmmashud&show_icons=true&locale=en" alt="anmmashud" /></p>
