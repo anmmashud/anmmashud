@@ -42,7 +42,7 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 </tr>
 <tr>
   <td><b>Tools</b></td>
-  <td>GitHub, Visual Studio Code, Jupyter Notebooks</td>
+  <td>GitHub, Visual Studio Code, Jupyter Notebooks, SPSS</td>
 </tr>
 </table>
 
