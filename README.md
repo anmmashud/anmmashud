@@ -49,6 +49,8 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 ---
 
 <h2 align="center">💡 Let's Collaborate!</h2>
+<p align="left">
+I’m open to collaborating on:
 </p>
 
 <ul>
