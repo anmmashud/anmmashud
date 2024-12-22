@@ -49,8 +49,6 @@ Aspiring Data Analyst with a passion for uncovering insights, creating dashboard
 ---
 
 <h2 align="center">💡 Let's Collaborate!</h2>
-<p align="center">
-I’m open to collaborating on:
 </p>
 
 <ul>
@@ -72,8 +70,6 @@ I’m open to collaborating on:
 </p>
 
 ---
-
-<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://anmmashud.github.io" target="_blank">
